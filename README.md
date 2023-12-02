@@ -10,14 +10,14 @@ Python 3.10 or later
 pip installer for Python
 
 ### Python Libraries
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-ta
-sklearn
-statsmodels
+pandas;
+numpy;
+matplotlib;
+seaborn;
+scipy;
+ta;
+sklearn;
+statsmodels;
 pmdarima
 
 ### R Install
