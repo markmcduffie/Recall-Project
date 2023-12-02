@@ -10,8 +10,8 @@ Python 3.10 or later
 pip installer for Python  
 The following Python libraries: pandas; numpy; matplotlib; seaborn; scipy; ta; sklearn; statsmodels; pmdarima
 
-R
-The Following R packages:
+R  
+The Following R packages:  
 dplyr; rstanarm; ggplot2; sandwich; xts; msm; lubridate
 
 ## Execution
