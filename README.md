@@ -19,7 +19,7 @@ Ensure Tableau Desktop is installed for visualizing exported data
 
 ## Execution
 R Markdown File:
-  * Run 'recall_indicator.Rmd' in RStudio to generate the 'recall_indicator.csv' (this will later be used as the recall indicator for the regression models and correlation analysis) 
+  * Run 'recall_indicator.Rmd' in RStudio to generate the 'recall_indicator.csv' (this will later be used as the recall indicator for the regression models and correlation analysis)
 Jupyter Notebook:
   * Open 'Project_0_5.ipynb' in Jupyter Notebook
   * Execute the cells sequentially to perform the analysis
