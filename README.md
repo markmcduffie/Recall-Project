@@ -6,8 +6,8 @@ The python package conatianing the majority of our project code is project_0_5. 
 
 ## Installation
 ### Requirements
-Python 3.10 or later
-pip installer for Python
+Python 3.10 or later  
+pip installer for Python  
 The following Python libraries: pandas; numpy; matplotlib; seaborn; scipy; ta; sklearn; statsmodels; pmdarima
 
 R
