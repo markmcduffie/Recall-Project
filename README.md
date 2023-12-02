@@ -4,6 +4,8 @@ CSE6242 Team 071 Project Code Files
 ## Description
 The python package conatianing the majority of our project code is project_0_5. Our code steps through the process of how we built our various models for automobile stock price estimation in the event of a recall. The statistical analysis used for obtaining our recall indicator values that we used in the regression models can be found in the recall_indicator.RMD file.
 
+The python code is split into 3 parts: Linear Regression, Volatility, and ARIMA. Each part represents the objectives specified in the report.
+
 ## Installation
 ### Requirements
 Python 3.10 or later  
